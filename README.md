@@ -2,6 +2,9 @@
 
 Welcome to Baby Shower 2024, a delightful and interactive baby shower experience built with modern web technologies. This project uses React for UI components, Vite for a fast development and build tool, and DaisyUI for a beautiful Tailwind CSS based UI.
 
+## Background:
+I'm becoming a father for the first time and lot of digital invitations came across to me on social media. I decided to build my own for good coding practice in the name of love ♥️. Please Enjoy and send me any feedback.
+
 ## Features
 
 | Feature | Description | Status |
